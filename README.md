@@ -8,5 +8,5 @@ sua durabilidade, porém a depender da sala que entre o jogador pode acabar acha
 mais combustível para a sua tocha.
 
 <br>
-<img height="400" src="https://github.com/matheusaugusto11/NoLight/Images/mapa.png](https://github.com/matheusaugusto11/NoLight/blob/main/Images/mapa.png">
+<img height="400" src="https://github.com/matheusaugusto11/NoLight/blob/main/Images/mapa.png">
 <br>
